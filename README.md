@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-## I'm a ✨soon-to-be✨ full stack developer 
+## I'm a full stack developer 
 
 - 🌠 Coding and learning everything new is my thing 
 - 🌝 Currently looking to gain more experience in developing softwares
